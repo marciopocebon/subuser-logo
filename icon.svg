@@ -14,7 +14,10 @@
    id="svg4022"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="icon.svg">
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="/home/timothy/current/subuser-logo/icon.png"
+   inkscape:export-xdpi="622.23053"
+   inkscape:export-ydpi="622.23053">
   <defs
      id="defs4024" />
   <sodipodi:namedview
@@ -25,14 +28,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4.73"
-     inkscape:cx="53.334431"
+     inkscape:cx="53.757264"
      inkscape:cy="48.823976"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
-     inkscape:window-width="1024"
-     inkscape:window-height="714"
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1" />
@@ -44,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -87,16 +90,6 @@
        height="3.4229503"
        x="20.337767"
        y="18.159763" />
-    <path
-       sodipodi:type="arc"
-       style="fill:#ffffff;stroke:#000000;stroke-opacity:1"
-       id="path3848"
-       sodipodi:cx="145.35043"
-       sodipodi:cy="878.68982"
-       sodipodi:rx="6.412519"
-       sodipodi:ry="6.9468956"
-       d="m 151.76295,878.68982 a 6.412519,6.9468956 0 1 1 -12.82504,0 6.412519,6.9468956 0 1 1 12.82504,0 z"
-       transform="matrix(0.09956671,0,0,0.09190775,-2.7216067,-62.445684)" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.59999999999999998;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 26.215072,18.151139 0,3.381293 z"
